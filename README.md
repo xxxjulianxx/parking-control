@@ -1,3 +1,4 @@
+# Integrantes Juan Camilo Urreste Larrahondo - 390914  Julian Andres Villa Alos - 396453
 # ParkControl – Sistema de Gestión de Parqueadero Gratuito
 
 **ParkControl** es una aplicación desarrollada en **Java** para gestionar el ingreso y salida de vehículos en un parqueadero gratuito.  
